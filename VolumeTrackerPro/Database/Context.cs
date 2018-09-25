@@ -11,11 +11,11 @@ public class TrackerContext : Microsoft.EntityFrameworkCore.DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         string hostname, dbname, username, password;
-        hostname = "vtpro.cdawfdfnvlmb.us-east-2.rds.amazonaws.com";
-        dbname = "MyDB";
-        username = "davidrowan07";
-        password = "sinister2!";
-        optionsBuilder.UseSqlServer("Data Source=" + hostname + ";Initial Catalog=" + dbname + ";User ID=" + username + ";Password=" + password + ";");
+        hostname = null;
+        dbname = null;
+        username = null;
+        password = null;
+        optionsBuilder.UseSqlServer("Data Source=" + hostname + ";Initial Catalog=" + dbname + ";User ID=" + username + ";Password=" + password + ";")
     }
 
 }
