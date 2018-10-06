@@ -2,7 +2,7 @@
 A Market Data Volume Tacking Web Application
 This Web Application was Developer by David Rowan
 
-This uses .NET Core, Angular, SQL Server, HTML/CSS, AWS Services
+This uses .NET Core, Angular, SQL Server, HTML/CSS, AWS Services and uses Jenkins to build
 
 Purpose of this application is find market events in which a trade is made that is above a certain moving average to provide insight
 to a possible user.
