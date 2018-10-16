@@ -9,4 +9,4 @@ to a possible user.
 
 This application is proprietary and may not be forked and spun up in a diffrent enviroment.This is a free to use service as well. For all inquiries please email me at davidrowan07@gmail.com
 # Current Build Status
-[![Build Status](http://ec2-18-223-100-157.us-east-2.compute.amazonaws.com:8080/buildStatus/icon?job=volumetrackerpro)](http://ec2-18-223-100-157.us-east-2.compute.amazonaws.com:8080/job/volumetrackerpro/)
+Release Site: [![Build Status](http://ec2-18-223-100-157.us-east-2.compute.amazonaws.com:8080/buildStatus/icon?job=volumetrackerpro)](http://ec2-18-223-100-157.us-east-2.compute.amazonaws.com:8080/job/volumetrackerpro/) votrpr.net
